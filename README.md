@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGx9jw40esAPw/profile-displaybackgroundimage-shrink_350_1400/B56ZUsqT9fHQAc-/0/1740211044824?e=1751500800&v=beta&t=Z93J7I5PMgvEyXhwbN79NNDfbLdpkC90rDoYPmBrPTI"  />
 </div>
