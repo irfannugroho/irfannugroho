@@ -78,14 +78,9 @@ I am excited to contribute these skills to create impactful and innovative solut
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/IrfanNgrh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=IrfanNgrh&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 
 ###
 
-
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312vk2gec7uv3bj3maabmjolklhy&count=5&width=1000unique={true|1|on|yes})
