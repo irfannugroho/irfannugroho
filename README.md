@@ -1,8 +1,9 @@
-<h2 align="left">¡Hola👋! My name is Irfan Nugroho and I'm a Junior Fullstack Developer</h2>
 
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGx9jw40esAPw/profile-displaybackgroundimage-shrink_350_1400/B56ZUsqT9fHQAc-/0/1740211044824?e=1751500800&v=beta&t=Z93J7I5PMgvEyXhwbN79NNDfbLdpkC90rDoYPmBrPTI"  />
 </div>
+
+<h2 align="left">¡Hola👋! My name is Irfan Nugroho and I'm a Junior Fullstack Developer</h2>
 
 <p align="left">I am a passionate Junior Web Developer with a strong eagerness to learn and grow in the tech industry. With a degree in Information Systems from Universitas Terbuka and combined with training from Bangkit Academy, has equipped me with skills in front-end and back-end development, along with knowledge of cloud computing.
 Beyond technical abilities, my passion for photography, videography, and design has helped me develop creativity, problem-solving skills, and effective communication.
@@ -41,7 +42,6 @@ I am excited to contribute these skills to create impactful and innovative solut
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
 
 ###
